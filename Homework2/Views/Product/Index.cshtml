@@ -1,0 +1,16 @@
+﻿@model Homework2.Entities.ProductViewModel
+
+<ul>
+    @foreach (var item in Model.Products)
+    {
+        <li class="my-li">
+            <img class="my-li-img" src=@item.ImageUrl/>
+            <p class="myli-name">Name : @item.Name</p>
+            <p class="myli-desc"> @item.Description</p>
+           <div class="myli-btns">
+                <a asp-controller="Product" asp-action="Edit" asp-route-id="@item.Id" class="add-btn">edit</a>
+                <a asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id" class="remove-btn">Remove</a>
+           </div>
+        </li>
+    }
+</ul>

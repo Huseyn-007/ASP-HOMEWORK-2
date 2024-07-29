@@ -1,0 +1,41 @@
+﻿@model Homework2.Entities.AddProductViewModel
+
+
+
+
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group" style="display:none;">
+                <label asp-for="product.Id" class="control-label"></label>
+                <input asp-for="product.Id" class="form-control" />
+                <span asp-validation-for="product.Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                    <label asp-for="product.Name" class="control-label"></label>
+                    <input asp-for="product.Name" class="form-control" />
+                <span asp-validation-for="product.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                    <label asp-for="product.Description" class="control-label"></label>
+                    <input asp-for="product.Description" class="form-control" />
+                    <span asp-validation-for="product.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                    <label asp-for="product.ImageUrl" class="control-label"></label>
+                    <input asp-for="product.ImageUrl" class="form-control" />
+                    <span asp-validation-for="product.ImageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="sumbit">Sumbit</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+

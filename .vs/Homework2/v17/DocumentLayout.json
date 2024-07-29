@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Homework2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|c:\\users\\administrator\\source\\repos\\homework2\\homework2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|solutionrelative:homework2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|c:\\users\\administrator\\source\\repos\\homework2\\homework2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|solutionrelative:homework2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|c:\\users\\administrator\\source\\repos\\homework2\\homework2\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|c:\\users\\administrator\\source\\repos\\homework2\\homework2\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|solutionrelative:homework2\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|c:\\users\\administrator\\source\\repos\\homework2\\homework2\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|c:\\users\\administrator\\source\\repos\\homework2\\homework2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|c:\\users\\administrator\\source\\repos\\homework2\\homework2\\entities\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|solutionrelative:homework2\\entities\\addproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|c:\\users\\administrator\\source\\repos\\homework2\\homework2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB063891-33C6-4FB3-934E-86DDB1E08C02}|Homework2\\Homework2.csproj|solutionrelative:homework2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Homework2\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Homework2\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T22:48:56.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Homework2\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Entities\\Product.cs",
+              "RelativeToolTip": "Homework2\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:54:46.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Homework2\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Homework2\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T21:29:26.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Entities\\AddProductViewModel.cs",
+              "RelativeDocumentMoniker": "Homework2\\Entities\\AddProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Entities\\AddProductViewModel.cs",
+              "RelativeToolTip": "Homework2\\Entities\\AddProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:24:10.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Homework2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Homework2\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBcAAAASAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:52:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Homework2\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Homework2\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T20:51:40.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Homework2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Homework2\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-29T20:48:43.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Homework2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Homework2\\Homework2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Homework2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T20:47:41.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
